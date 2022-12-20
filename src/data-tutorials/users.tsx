@@ -1175,6 +1175,13 @@ const Users: User[] = [
     tags: ['advanced', 'foundation'],
   },
   {
+    title: 'Potential Growth of Blockchain and its Use Cases',
+    description: 'In this tutorial, we will explore the current and potential future applications of blockchain technology.',
+    preview: require,
+    website: '/blog//tutorials/Potential-Growth-of-Blockchain-and-its-Use-Cases',
+    tags: ['celosage','beginner', 'celo'],
+  },
+  {
     title: '9 Sustainable DeFi Projects Built on Celo',
     description: 'Creating the world’s first carbon-neutral blockchain was just the beginning.',
     preview: require('./showcase/beginner/9-sustainable-defi-projects-built-on-celo.png'),
